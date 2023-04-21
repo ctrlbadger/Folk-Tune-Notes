@@ -13,7 +13,7 @@ Here's a screenshot of a what it looks like:
 Brilliant! I think the best way to get started would be to fork this repository, clone the directory and then create a new obsidian directory in that vault. Install the community plugins `Templater`, `Tasks` & `Obsidian` and follow their guides for setup.
 
 The way I create a new tune is to create a new file, name it the tune I want to add, and then use `templater` to add the contents of the file with the `Tune Templater.md` template. 
-I've written (ChatGPT has written) a script that queries the file title and returns the url of the first search result.
+I've written (ChatGPT has written) a script that queries the file title on the session and returns the url of the first tune result.
 
 Using tasks, `Folk Tunes to Learn.md` should automatically show all tunes that are known and not known to help you sort check off tunes. This is handled by the template including a `- [ ] ` line in each tune file.
 
