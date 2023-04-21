@@ -4,19 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "2cdad558d81d7653",
+        "id": "26b8ce1ad0766556",
         "type": "tabs",
         "children": [
           {
-            "id": "f4182af30fa277fd",
+            "id": "4513eaefd4d1c9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
+                "file": "Tunes/The Square at Cross McGlenn.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0c2b90e70cc47636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tunes/Catharsis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "defbb039fd3555e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tunes/Tam Lin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e79183bc2f1dcaf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1013f6ff02518e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folk Tunes to Learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -65,11 +109,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99acef12a699aa20",
@@ -85,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
+                "file": "Tunes/The Square at Cross McGlenn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
+                "file": "Tunes/The Square at Cross McGlenn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tunes/Tune for Found Harmonium.md"
+                "file": "Tunes/The Square at Cross McGlenn.md"
               }
             }
           }
@@ -147,18 +193,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4182af30fa277fd",
+  "active": "4513eaefd4d1c9cf",
   "lastOpenFiles": [
+    "Tunes/Tam Lin.md",
+    "Tunes/Catharsis.md",
+    "Tunes/The Square at Cross McGlenn.md",
+    "Folk Tunes to Learn.md",
+    "Tunes/Old Tom of Oxford.md",
     "Tunes/Tune for Found Harmonium.md",
-    "Tunes/The Congress.md",
+    "Tunes/Macleod's Farewell.md",
+    "Tunes/Mountain Road.md",
+    "README.md",
+    "Templates/Tune Templater.md",
+    "Tunes/Lucy Farr's.md",
     "Tunes/Road to Errogie.md",
+    "Tunes/The Congress.md",
     "Tunes/Jolly Beggerman.md",
     "Tunes/High Road to Linton.md",
     "Tunes/Father Kelly.md",
     "Tunes/Farewell to Ireland.md",
-    "Templates/Tune Templater.md",
-    "Folk Tunes to Learn.md",
-    "README.md",
     "Tunes",
     "Scripts/get_tune.js",
     "Scripts/getTune.js",

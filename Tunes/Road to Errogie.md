@@ -1,6 +1,6 @@
 Tune Name: Road to Errogie
 Learned:
-- [ ] 
+- [x]  ✅ 2023-04-21
 Key: #A
 The Session: https://thesession.org/tunes/5270
 

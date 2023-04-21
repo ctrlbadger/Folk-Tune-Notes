@@ -1,7 +1,7 @@
 Tune Name: Jolly Beggerman
 Also Known As: Red Headed Boy
 Learned: 
-- [ ] 
+- [x]  ✅ 2023-04-21
 Key: #D 
 Session: https://thesession.org/tunes/566
 Suggested Sets:
