@@ -2,7 +2,10 @@ Tune Name: Road to Errogie
 Learned:
 - [x]  ✅ 2023-04-21
 Key: #A
+Style: #Reel 
 The Session: https://thesession.org/tunes/5270
+Suggested Sets: [[Frank's]]
+Notes:
 
 
 ---

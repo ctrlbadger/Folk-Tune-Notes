@@ -10,16 +10,32 @@
           {
             "id": "be3a4f1956386545",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tune Templater.md",
+                "file": "Tunes/Road to Errogie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7bee64cb10ed99df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e79183bc2f1dcaf8",
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Tune Templater.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Tune Templater.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Tune Templater.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,13 +183,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be3a4f1956386545",
+  "active": "7bee64cb10ed99df",
   "lastOpenFiles": [
-    "Tunes/Tune for Found Harmonium.md",
-    "Tunes/The Square at Cross McGlenn.md",
+    "Tunes/Road to Errogie.md",
+    "Templates.md",
     "README.md",
-    "Folk Tunes to Learn.md",
+    "Tunes/Tune for Found Harmonium.md",
+    "Tunes/Frank's.md",
+    "Templates/screenshot.png",
     "Templates/Tune Templater.md",
+    "Tunes/The Square at Cross McGlenn.md",
+    "Folk Tunes to Learn.md",
     "Tunes/Macleod's Farewell.md",
     "Tunes/Father Kelly.md",
     "Tunes/Tam Lin.md",
@@ -181,7 +201,6 @@
     "Tunes/Old Tom of Oxford.md",
     "Tunes/Mountain Road.md",
     "Tunes/Lucy Farr's.md",
-    "Tunes/Road to Errogie.md",
     "Tunes/The Congress.md",
     "Tunes/Jolly Beggerman.md",
     "Tunes/High Road to Linton.md",
