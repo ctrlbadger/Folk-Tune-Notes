@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dda454f05bebfac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70a18bb045b94262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tunes/Father Kelly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f4182af30fa277fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tunes/Tune for Found Harmonium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tunes/Tune for Found Harmonium.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,8 +139,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4182af30fa277fd",
+  "active": "9519771a1ffa93ad",
   "lastOpenFiles": [
+    "Tunes/Tune for Found Harmonium.md",
     "Tunes/The Congress.md",
     "Tunes/Road to Errogie.md",
     "Tunes/Jolly Beggerman.md",
@@ -181,7 +149,6 @@
     "Tunes/Father Kelly.md",
     "Tunes/Farewell to Ireland.md",
     "Templates/Tune Templater.md",
-    "Tunes/Tune for Found Harmonium.md",
     "Folk Tunes to Learn.md",
     "README.md",
     "Tunes",
