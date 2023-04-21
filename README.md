@@ -5,9 +5,9 @@ This is my personal Obsidian Vault to track what tunes I want to play and help m
 Using obsidian and heavily relying on the `Templater`, `Tasks` & `Obsidian Git` community plugins allows me to fill in a whole bunch of metadata in no time and track my tunes!
 
 ## What does this look like?
-Here's a screenshot of a what it's like:
+Here's a screenshot of a what it looks like:
 
-!(A screenshot from Obsidian)[https://github.com/ctrlbadger/Folk-Tune-Notes/blob/main/Templates/screenshot.png]
+![Obsidian Desktop Screenshot](https://github.com/ctrlbadger/Folk-Tune-Notes/blob/main/Templates/screenshot.png?raw=true)
 
 # Hey I want to use this too!
 Brilliant! I think the best way to get started would be to fork this repository, clone the directory and then create a new obsidian directory in that vault. Install the community plugins `Templater`, `Tasks` & `Obsidian` and follow their guides for setup.
