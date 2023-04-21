@@ -1,7 +1,7 @@
 Tune Name: Father Kelly
 Learned: 
 - [x]  ✅ 2023-04-21
-Key:
+Key: #G
 Tune Func: https://thesession.org/tunes/21223
 Suggested Sets:
 

@@ -2,8 +2,10 @@ Tune Name: <% tp.file.title %>
 Learned: 
 - [ ] 
 Key:
+Style: 
 Session: <% tp.user.get_tune(tp.file.title) %>
 Suggested Sets:
+Notes:
 
 ---
 Creation Date: <% tp.file.creation_date() %>
