@@ -7,7 +7,7 @@ Using obsidian and heavily relying on the `Templater`, `Tasks` & `Obsidian Git` 
 ## What does this look like?
 Here's a screenshot of a what it's like:
 
-![[screenshot.png]]
+!(A screenshot from Obsidian)[https://github.com/ctrlbadger/Folk-Tune-Notes/blob/main/Templates/screenshot.png]
 
 # Hey I want to use this too!
 Brilliant! I think the best way to get started would be to fork this repository, clone the directory and then create a new obsidian directory in that vault. Install the community plugins `Templater`, `Tasks` & `Obsidian` and follow their guides for setup.
