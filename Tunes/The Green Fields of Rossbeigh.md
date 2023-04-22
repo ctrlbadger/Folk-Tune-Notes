@@ -1,11 +1,11 @@
 Tune Name: <% tp.file.title %>
 Learned: 
 - [ ] 
-Key:
-Style: 
+Key: #E
+Style: #Reel 
 Session: <% tp.user.get_tune(tp.file.title) %>
 Suggested Sets:
-Notes: [[Frank's]] [[The Green Fields of Rossbeigh]]
+Notes:
 
 ---
 Creation Date: <% tp.file.creation_date() %>
