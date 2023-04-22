@@ -6,22 +6,8 @@
       {
         "id": "26b8ce1ad0766556",
         "type": "tabs",
+        "dimension": 53.63247863247863,
         "children": [
-          {
-            "id": "be3a4f1956386545",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tunes/Road to Errogie.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "7bee64cb10ed99df",
             "type": "leaf",
@@ -34,12 +20,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e79183bc2f1dcaf8",
         "type": "tabs",
+        "dimension": 46.36752136752137,
         "children": [
           {
             "id": "6d1013f6ff02518e",
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folk Tunes to Learn.md",
+                "file": "Tunes/Tune for Found Harmonium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folk Tunes to Learn.md",
+                "file": "Tunes/Tune for Found Harmonium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folk Tunes to Learn.md"
+                "file": "Tunes/Tune for Found Harmonium.md"
               }
             }
           }
@@ -180,21 +166,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6d1013f6ff02518e",
+  "active": "7bee64cb10ed99df",
   "lastOpenFiles": [
+    "Folk Tunes to Learn.md",
     "Tunes/Tune for Found Harmonium.md",
+    "Tunes/Road to Errogie.md",
     "Templates/Tune Templater.md",
     "Tunes/Catharsis.md",
     "README.md",
-    "Tunes/Road to Errogie.md",
     "Templates.md",
     "Tunes/Frank's.md",
     "Templates/screenshot.png",
     "Tunes/The Square at Cross McGlenn.md",
-    "Folk Tunes to Learn.md",
     "Tunes/Macleod's Farewell.md",
     "Tunes/Father Kelly.md",
     "Tunes/Tam Lin.md",
