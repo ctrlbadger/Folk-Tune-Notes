@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tunes/Macleod's Farewell.md",
+                "file": "Folk Tunes to Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +44,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Ma",
-            "matchingCase": false,
+            "query": "",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "66e87957916a072f",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tunes/Macleod's Farewell.md",
+            "file": "Folk Tunes to Learn.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tunes/Macleod's Farewell.md",
+            "file": "Folk Tunes to Learn.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,11 +114,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tunes/Macleod's Farewell.md"
+            "file": "Folk Tunes to Learn.md"
           }
         }
       }
-    ]
+    ],
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,6 +133,8 @@
   },
   "active": "665d62affa1593fc",
   "lastOpenFiles": [
+    "Tunes/Silver Spire.md",
+    "Tunes/Macleod's Farewell.md",
     "Pigeon on the Gate.md",
     "Tunes/Farewell to Ireland.md",
     "Tunes/Lucy Farr's.md",
@@ -141,7 +144,6 @@
     "Tunes/Mountain Road.md",
     "Tunes/The Square at Cross McGlenn.md",
     "Tunes/Tam Lin.md",
-    "Tunes/Macleod's Farewell.md",
     "Tunes/Frank's.md",
     "Templates/Tune Templater.md",
     "Tunes/The Congress.md",
