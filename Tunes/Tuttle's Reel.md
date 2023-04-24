@@ -5,7 +5,7 @@ Learned:
 Key:
 Style: 
 Session: https://thesession.org/tunes/528
-Suggested Sets:
+Suggested Sets: [[The Congress]] [[Cup of Tea]]
 Notes: Absolutely Lovely Reel
 
 ---
