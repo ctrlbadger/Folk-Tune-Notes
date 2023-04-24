@@ -3,7 +3,7 @@ Learned:
 - [ ] 
 Key: #A
 Tune Func: https://thesession.org/tunes/1118
-Suggested Sets:
+Suggested Sets: [[Road to Errogie]]
 
 ---
 Creation Date: 2023-04-21 18:11

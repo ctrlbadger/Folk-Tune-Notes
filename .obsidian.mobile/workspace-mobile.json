@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tunes/Stomach Steinway Steinway Woman.md",
+                "file": "Tunes/The High Drive.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Dmin",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tunes/Stomach Steinway Steinway Woman.md",
+            "file": "Tunes/The High Drive.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tunes/Stomach Steinway Steinway Woman.md",
+            "file": "Tunes/The High Drive.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tunes/Stomach Steinway Steinway Woman.md"
+            "file": "Tunes/The High Drive.md"
           }
         }
       }
@@ -131,18 +131,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "665d62affa1593fc",
+  "active": "e96dd9c3202f639b",
   "lastOpenFiles": [
-    "Tunes/Tuttle's Reel.md",
+    "Tunes/MacArthur Road.md",
+    "Tunes/The High Drive.md",
+    "Tunes/The Reconciliation Reel.md",
+    "Tunes/High Road to Linton.md",
+    "Folk Tunes to Learn.md",
     "Tunes/Stomach Steinway Steinway Woman.md",
+    "Tunes/Tuttle's Reel.md",
     "Tunes/The Square at Cross McGlenn.md",
     "README.md",
     "Tunes/Young May Moon.md",
     "Tunes/Old Tom of Oxford.md",
-    "Folk Tunes to Learn.md",
     "Tunes/The Green Fields of Rossbeigh.md",
     "Tunes/The Maid Behind the Bar.md",
-    "Tunes/The Reconciliation Reel.md",
     "Tunes/Silver Spire.md",
     "Tunes/Macleod's Farewell.md",
     "Pigeon on the Gate.md",
@@ -158,10 +161,7 @@
     "Tunes/Jolly Beggerman.md",
     "Scripts/get_tune.js",
     "Tunes/Tune for Found Harmonium.md",
-    "Tunes/High Road to Linton.md",
-    "Tunes/Father Kelly.md",
     "LICENSE",
-    "Tunes/Road to Errogie.md",
     "Scripts",
     "Templates",
     "Tunes"
