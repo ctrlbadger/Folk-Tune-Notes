@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tunes/The Square at Cross McGlenn.md",
+                "file": "Tunes/Stomach Steinway Steinway Woman.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Dmin",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "66e87957916a072f",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tunes/The Square at Cross McGlenn.md",
+            "file": "Tunes/Stomach Steinway Steinway Woman.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tunes/The Square at Cross McGlenn.md",
+            "file": "Tunes/Stomach Steinway Steinway Woman.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tunes/The Square at Cross McGlenn.md"
+            "file": "Tunes/Stomach Steinway Steinway Woman.md"
           }
         }
       }
@@ -133,6 +133,9 @@
   },
   "active": "665d62affa1593fc",
   "lastOpenFiles": [
+    "Tunes/Tuttle's Reel.md",
+    "Tunes/Stomach Steinway Steinway Woman.md",
+    "Tunes/The Square at Cross McGlenn.md",
     "README.md",
     "Tunes/Young May Moon.md",
     "Tunes/Old Tom of Oxford.md",
@@ -147,7 +150,6 @@
     "Tunes/Lucy Farr's.md",
     "Tunes/Catharsis.md",
     "Tunes/Mountain Road.md",
-    "Tunes/The Square at Cross McGlenn.md",
     "Tunes/Tam Lin.md",
     "Tunes/Frank's.md",
     "Templates/Tune Templater.md",

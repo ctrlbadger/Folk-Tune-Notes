@@ -3,7 +3,7 @@ Learned:
 - [ ] 
 Key: #Gmin
 Session: https://thesession.org/tunes/9155
-Suggested Sets:
+Suggested Sets: [[Tuttle's Reel]]
 
 ---
 Creation Date: 2023-04-21 19:04
