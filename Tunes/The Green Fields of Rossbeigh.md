@@ -1,12 +1,12 @@
-Tune Name: <% tp.file.title %>
+Tune Name: Silver Spire
 Learned: 
 - [ ] 
 Key: #Emin
 Style: #Reel 
-Session: <% tp.user.get_tune(tp.file.title) %>
+Session: https://thesession.org/tunes/240
 Suggested Sets:
 Notes: [[The Maid Behind the Bar]]
 
 ---
-Creation Date: <% tp.file.creation_date() %>
-Modification Date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+Creation Date: 2023-04-24 16:40
+Modification Date: Monday 24th April 2023 16:40:44

@@ -1,12 +1,12 @@
-Tune Name: <% tp.file.title %>
+Tune Name: Farewell to Ireland
 Learned: 
 - [ ] 
 Key:
 Style: 
-Session: <% tp.user.get_tune(tp.file.title) %>
+Session: https://thesession.org/tunes/33
 Suggested Sets:
 Notes:
 
 ---
-Creation Date: <% tp.file.creation_date() %>
-Modification Date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+Creation Date: 2023-04-21 15:59
+Modification Date: Monday 24th April 2023 17:18:13
