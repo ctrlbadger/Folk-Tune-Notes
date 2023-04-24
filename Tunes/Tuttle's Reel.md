@@ -1,7 +1,7 @@
 https://open.spotify.com/track/4hBnSQbRDTOO85HI6FYqva?si=3r6JLeJBQ_mF5WqnSluzwQ&dd=1
 Tune Name: Tuttle's Reel
 Learned: 
-- [x]  ✅ 2023-04-24⏫ 
+- [ ]  ⏫
 Key:
 Style: 
 Session: https://thesession.org/tunes/528

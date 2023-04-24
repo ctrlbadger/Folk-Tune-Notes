@@ -1,12 +1,21 @@
-Tune Name: <% tp.file.title %>
+Tune Name: `$= dv.current().file.name`
 Learned: 
 - [ ] 
-Key: #Dmin
-Style: #Reel #Modern
-Session: <% tp.user.get_tune(tp.file.title) %>
-Suggested Sets: [[Farewell to Chernobyl]] [[Cartharsis]]
-Notes: There's two parts to it and I never get it right
+Key:
+Style: 
+Session: 
+```dataviewjs
+await dv.view("Scripts/get_tune_dv", dv.current());
+```
+Suggested Sets:
+Notes:
 
----
-Creation Date: <% tp.file.creation_date() %>
-Modification Date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+
+Creation Date: `$= dv.current().file.ctime`
+Modified Data: `$= dv.current().file.mtime`
+
+Page:
+```dataviewjs
+await dv.view("Scripts/display_tune_dv", dv.current());
+```
+
