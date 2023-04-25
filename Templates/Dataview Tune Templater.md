@@ -1,6 +1,4 @@
 Tune Name: `$= dv.current().file.name`
-Learned: 
-- [ ] 
 Key:
 Style: 
 Session: 
@@ -9,6 +7,9 @@ await dv.view("Scripts/get_tune_dv", dv.current());
 ```
 Suggested Sets:
 Notes:
+
+Learned: 
+- [ ]  
 
 
 Creation Date: `$= dv.current().file.ctime`

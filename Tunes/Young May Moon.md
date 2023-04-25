@@ -1,12 +1,22 @@
-Tune Name: The Reconciliation Reel
+Tune Name: `$= dv.current().file.name`
 Learned: 
 - [ ] 
+
 Key:
 Style: 
-Session: https://thesession.org/tunes/1977
+Session: 
+```dataviewjs
+await dv.view("Scripts/get_tune_dv", dv.current());
+```
 Suggested Sets:
-Notes:
+Notes: [[Old Tom of Oxford]]
 
----
-Creation Date: 2023-04-24 16:40
-Modification Date: Monday 24th April 2023 16:40:44
+
+Creation Date: `$= dv.current().file.ctime`
+Modified Data: `$= dv.current().file.mtime`
+
+Page:
+```dataviewjs
+await dv.view("Scripts/display_tune_dv", dv.current());
+```
+
