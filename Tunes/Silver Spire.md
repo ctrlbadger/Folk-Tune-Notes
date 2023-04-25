@@ -1,9 +1,11 @@
-Tune Name: The Reconciliation Reel
-Learned: 
-- [ ] 
-Key: D
-Style: 
+Tune Name: Silver Spire
+Learned:
+- [ ]  
+
+Key: #D 
+Style: #Reel 
 Session: https://thesession.org/tunes/1977
+
 Suggested Sets: [[Mountain Road]]
 Notes: 
 
