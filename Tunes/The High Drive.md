@@ -1,6 +1,6 @@
 Tune Name: <% tp.file.title %>
 Learned: 
-- [ ] 
+- [x]  ✅ 2023-05-09
 Key: #A 
 Style: #Jig
 Session: <% tp.user.get_tune(tp.file.title) %>

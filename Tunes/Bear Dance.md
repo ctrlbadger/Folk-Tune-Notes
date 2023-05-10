@@ -1,5 +1,5 @@
 Tune Name: `$= dv.current().file.name`
-Key:
+Key: #Bmin
 Style: 
 Session: 
 ```dataviewjs
@@ -9,7 +9,7 @@ Suggested Sets:
 Notes:
 
 Learned: 
-- [ ]  
+- [x]  ✅ 2023-05-09
 
 
 Creation Date: `$= dv.current().file.ctime`

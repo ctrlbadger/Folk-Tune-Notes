@@ -1,13 +1,13 @@
 Tune Name: `$= dv.current().file.name`
-Key:
-Style: 
+Key: #Emin
+Style: #Reel #Trad
 Session: 
 ```dataviewjs
 await dv.view("Scripts/get_tune_dv", dv.current());
 ```
 Suggested Sets:
 Notes:
-
+Frankie Gavin plays this tune a lot!
 Learned: 
 - [ ]  
 

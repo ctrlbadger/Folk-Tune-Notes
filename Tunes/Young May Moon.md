@@ -8,8 +8,8 @@ Session:
 ```dataviewjs
 await dv.view("Scripts/get_tune_dv", dv.current());
 ```
-Suggested Sets:
-Notes: [[Old Tom of Oxford]]
+Suggested Sets: [[Old Tom of Oxford]]
+Notes: Very Cute Tune
 
 
 Creation Date: `$= dv.current().file.ctime`

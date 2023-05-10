@@ -1,18 +1,19 @@
 Tune Name: `$= dv.current().file.name`
+Key:
+Style: 
+Suggested Sets:
+Notes:
+
 Learned: 
-- [ ] 
-Key: #Dmin
-Style: #Reel 
+- [x]  ✅ 2023-05-09
+
+Creation Date: `$= dv.current().file.ctime`
+Modified Data: `$= dv.current().file.mtime`
+
 Session: 
 ```dataviewjs
 await dv.view("Scripts/get_tune_dv", dv.current());
 ```
-Suggested Sets:
-Notes:
-
-
-Creation Date: `$= dv.current().file.ctime`
-Modified Data: `$= dv.current().file.mtime`
 
 Page:
 ```dataviewjs

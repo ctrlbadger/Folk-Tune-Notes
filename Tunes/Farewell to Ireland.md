@@ -1,12 +1,22 @@
-Tune Name: Farewell to Ireland
-Learned: 
-- [ ] 
+Tune Name: `$= dv.current().file.name`
 Key:
 Style: 
-Session: https://thesession.org/tunes/33
+Session: 
+```dataviewjs
+await dv.view("Scripts/get_tune_dv", dv.current());
+```
 Suggested Sets:
 Notes:
 
----
-Creation Date: 2023-04-21 15:59
-Modification Date: Monday 24th April 2023 17:18:13
+Learned: 
+- [ ]  
+
+
+Creation Date: `$= dv.current().file.ctime`
+Modified Data: `$= dv.current().file.mtime`
+
+Page:
+```dataviewjs
+await dv.view("Scripts/display_tune_dv", dv.current());
+```
+

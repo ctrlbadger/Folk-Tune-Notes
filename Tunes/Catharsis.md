@@ -3,7 +3,7 @@ Learned:
 - [x]  ✅ 2023-04-21
 Key:
 Session: https://thesession.org/tunes/703
-Suggested Sets: [[Tam Lin]]
+Suggested Sets: [[Tunes/Tam Lin]]
 
 ---
 Creation Date: 2023-04-21 19:06

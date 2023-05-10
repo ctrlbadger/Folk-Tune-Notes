@@ -1,18 +1,20 @@
 Tune Name: `$= dv.current().file.name`
+Key:
+Style: 
+Suggested Sets: #D
+Notes:
+
 Learned: 
-- [ ] 
-Key: #Dmin
-Style: #Reel 
+- [ ]  
+
+Creation Date: `$= dv.current().file.ctime`
+Modified Data: `$= dv.current().file.mtime`
+
 Session: 
 ```dataviewjs
 await dv.view("Scripts/get_tune_dv", dv.current());
 ```
-Suggested Sets:
-Notes:
-
-
-Creation Date: `$= dv.current().file.ctime`
-Modified Data: `$= dv.current().file.mtime`
+https://www.folktunefinder.com/tunes/61521
 
 Page:
 ```dataviewjs

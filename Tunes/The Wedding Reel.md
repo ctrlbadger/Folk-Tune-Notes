@@ -10,7 +10,7 @@ Notes: Donald Shaw Jura Wedding
 [[Frank's]]
 
 Learned: 
-- [ ]  
+- [x]  ✅ 2023-05-09
 
 
 Creation Date: `$= dv.current().file.ctime`
