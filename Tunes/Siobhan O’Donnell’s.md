@@ -5,7 +5,7 @@ Suggested Sets:
 Notes: [[The Reconciliation Reel]]
 
 Learned: 
-- [ ]  
+- [x]  ✅ 2023-07-27
 
 Creation Date: `$= dv.current().file.ctime`
 Modified Data: `$= dv.current().file.mtime`
