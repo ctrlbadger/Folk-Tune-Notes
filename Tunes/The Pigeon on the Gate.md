@@ -7,9 +7,11 @@ Notes:
 #Reel #Fast
 
 Learned: 
-- [ ] ⏫ 
+- [x] ⏫ 
 
 Creation Date: `$= dv.current().file.ctime`
 Modified Data: `$= dv.current().file.mtime`
 
 Session: 
+
+#tune

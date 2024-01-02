@@ -5,7 +5,7 @@ Suggested Sets:
 Notes: [[Frank's]] [[The Green Fields of Rossbeigh]]
 
 Learned: 
-- [ ]  
+- [x]  ✅ 2024-01-02
 
 Creation Date: `$= dv.current().file.ctime`
 Modified Data: `$= dv.current().file.mtime`
@@ -20,3 +20,5 @@ Page:
 await dv.view("Scripts/display_tune_dv", dv.current());
 ```
 
+
+#tune

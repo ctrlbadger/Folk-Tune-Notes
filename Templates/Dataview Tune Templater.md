@@ -1,3 +1,8 @@
+---
+tags:
+  - tune
+---
+
 Tune Name: `$= dv.current().file.name`
 Key:
 Style: 

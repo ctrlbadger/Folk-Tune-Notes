@@ -1,6 +1,6 @@
 Tune Name: `$= dv.current().file.name`
 Learned: 
-- [ ] 
+- [x]  ✅ 2024-01-02
 Key: #Dmin
 Style: #Reel 
 Session: 
@@ -19,3 +19,5 @@ Page:
 await dv.view("Scripts/display_tune_dv", dv.current());
 ```
 
+
+#tune

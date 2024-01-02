@@ -1,8 +1,10 @@
 Tune Name: `$= dv.current().file.name`
 Key:
-Style: 
+Style: #american #old-time #bluegrass 
 Suggested Sets:
 Notes:
+
+
 
 Learned: 
 - [ ]  
@@ -11,6 +13,9 @@ Creation Date: `$= dv.current().file.ctime`
 Modified Data: `$= dv.current().file.mtime`
 
 Session: 
+```dataviewjs
+await dv.view("Scripts/get_tune_dv", dv.current());
+```
 
 Page:
 ```dataviewjs

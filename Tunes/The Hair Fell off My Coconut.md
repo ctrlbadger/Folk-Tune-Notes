@@ -1,6 +1,6 @@
-Tune Name: `$= dv.current().file.name`
-Key:
-Style: 
+Tune Name: The Hair Fell off my Coconut -- Hundred Pipers
+Key: 
+Style: #ceilidh #jig 
 Suggested Sets:
 Notes:
 
@@ -11,6 +11,9 @@ Creation Date: `$= dv.current().file.ctime`
 Modified Data: `$= dv.current().file.mtime`
 
 Session: 
+```dataviewjs
+await dv.view("Scripts/get_tune_dv", dv.current());
+```
 
 Page:
 ```dataviewjs
