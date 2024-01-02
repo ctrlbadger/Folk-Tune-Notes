@@ -2,10 +2,10 @@ Tune Name: `$= dv.current().file.name`
 Key:
 Style: 
 Suggested Sets:
-Notes:
+Notes: [[The Reconciliation Reel]]
 
 Learned: 
-- [ ]  
+- [x]  ✅ 2023-07-27
 
 Creation Date: `$= dv.current().file.ctime`
 Modified Data: `$= dv.current().file.mtime`
@@ -20,8 +20,3 @@ Page:
 await dv.view("Scripts/display_tune_dv", dv.current());
 ```
 
-<<<<<<< HEAD
-
-#tune
-=======
->>>>>>> 56bec7c94176490d6a6f7b54f9bd6659348a8cc5

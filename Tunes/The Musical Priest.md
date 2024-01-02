@@ -1,7 +1,7 @@
 Tune Name: `$= dv.current().file.name`
 Key:
 Style: 
-Suggested Sets:
+Suggested Sets: [[The Star of Munster]]
 Notes:
 
 Learned: 
@@ -20,8 +20,3 @@ Page:
 await dv.view("Scripts/display_tune_dv", dv.current());
 ```
 
-<<<<<<< HEAD
-
-#tune
-=======
->>>>>>> 56bec7c94176490d6a6f7b54f9bd6659348a8cc5

@@ -9,7 +9,7 @@ Suggested Sets:
 Notes:
 
 Learned: 
-- [ ]  
+- [x]  ✅ 2023-09-15
 
 
 Creation Date: `$= dv.current().file.ctime`
